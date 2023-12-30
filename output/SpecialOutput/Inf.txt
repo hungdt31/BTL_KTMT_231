@@ -1,0 +1,27 @@
+MARS 4.5  Copyright 2003-2014 Pete Sanderson and Kenneth Vollmar
+
+The value of the dividend: 01111111100000000000000000000000
+Infinity
+The value of the divisor: 01000010010001100100000000000000
+49.5625
+The result of the division: 01111111100000000000000000000000
+Infinity
+-----------------------------------------------
+MARS 4.5  Copyright 2003-2014 Pete Sanderson and Kenneth Vollmar
+
+The value of the dividend: 11000000010111110100111111000000
+-3.4892426
+The value of the divisor: 00000000000000000000000000000000
+0.0
+The result of the division: 11111111100000000000000000000000
+-Infinity
+-----------------------------------------------
+MARS 4.5  Copyright 2003-2014 Pete Sanderson and Kenneth Vollmar
+
+The value of the dividend: 01001111011010000010110100011111
+3.8952712E9
+The value of the divisor: 00000000000000000000000000000000
+0.0
+The result of the division: 01111111100000000000000000000000
+Infinity
+-----------------------------------------------

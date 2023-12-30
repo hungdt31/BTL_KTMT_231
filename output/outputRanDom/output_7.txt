@@ -1,0 +1,9 @@
+Output of testcase_7:
+MARS 4.5  Copyright 2003-2014 Pete Sanderson and Kenneth Vollmar
+
+The value of the dividend: 11001100111110111111001000000010
+-1.3209192E8
+The value of the divisor: 11000101101000111101000000000000
+-5242.0
+The result of the division: 01000110110001001101110110000111
+25198.764
